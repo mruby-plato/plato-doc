@@ -55,11 +55,13 @@ Platoでenziボードを使用する場合には、PCとenziボードでシリ�
 
 ## 3. Platoのセットアップ
 
-1. [こちら](http://plato.click/downloads)からPlatoインストーラをダウンロードします。
+1. Platoインストーラをダウンロードします。  
+[Plato 1.0.0 for Windows](http://forum.mruby.org/download/source/plato-1_0_0-windows-ja.zip)  
+[Plato 1.0.0 for Mac](http://forum.mruby.org/download/source/plato-1_0_0-mac-ja.zip)
 
 ### Windows環境の場合
 
-2. plato-windows-X.X.X.zipを任意のフォルダに解凍します。
+2. plato-1_0_0-windows-ja.zipを任意のフォルダに解凍します。
 3. コマンドプロンプトを開き、以下のコマンドを実行します。
 
 ```bash
@@ -73,7 +75,7 @@ Platoでenziボードを使用する場合には、PCとenziボードでシリ�
 
 ```bash
 $ cd <zipをダウンロードしたディレクトリ>
-$ unzip plato-mac-X.X.X.zip
+$ unzip plato-1_0_0-mac-ja.zip
 $ cd plato-setup
 $ ruby install.rb
 ```
